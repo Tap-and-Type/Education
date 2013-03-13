@@ -1,0 +1,42 @@
+.area
+{
+	top:0;
+	left:0;
+	width:40%;
+	margin-left:5%;
+	display:inline-block;
+	height:1px;
+
+}
+
+#sal
+{
+	position:relative;
+	top:0;
+	left:0;
+	margin-left:3%;
+}
+
+.area #dap
+{
+	position:relative;
+	margin-left:3%;
+	margin-top:25px;
+}
+
+.area p
+{
+	font-size:16px;
+	font-weight:200;
+	font-family:Tahoma, Geneva, sans-serif;
+	line-height:25px;
+	
+	
+}
+
+.area p a
+{
+	color:#00C2C2;
+}
+
+
